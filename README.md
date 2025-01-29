@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, React.js, Node.js, javascript, CSS3, Sass**
 
-- 📫 How to reach me **yashwantgosavi0@gmail.com**
+- 📫 How to reach me **info@yashwebdesign.com**
 
 - 📄 Know about my experiences [yashwantdesign/resume](yashwantdesign/resume)
 
