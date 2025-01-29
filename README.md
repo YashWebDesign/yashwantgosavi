@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yashwantgosavi_" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantgosavi_?logo=twitter&style=for-the-badge" alt="yashwantgosavi_" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Website Development Projects**
+- 👯 I’m looking to collaborate on **Web APP Development Projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.yashwebdesign.com)
+- 👨‍💻 For Business and Portfolio: (https://www.yashwebdesign.com)
 
-- 📝 I regularly write articles on [yashwantdesign/blog](yashwantdesign/blog)
+- 💬 Expertise in: **Java, MERN stack, NEXT.js, Vanilla JavaScript, CSS3, Sass, Bootstrap, Tailwind CSS**
 
-- 💬 Ask me about **Java, React.js, Node.js, javascript, CSS3, Sass**
-
-- 📫 How to reach me **yashwantgosavi0@gmail.com**
-
-- 📄 Know about my experiences [yashwantdesign/resume](yashwantdesign/resume)
+- 📫 How to reach me **info@yashwebdesign.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
